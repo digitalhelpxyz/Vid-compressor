@@ -1,35 +1,65 @@
-Terms and Conditions for Vid Compressor
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Terms and Conditions for using Your App Name.">
+    <meta name="keywords" content="Terms and Conditions, Your App Name">
+    <meta name="author" content="Your App Name">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms & Conditions - Your App Name</title>
+</head>
+<body>
 
-By downloading or using Vid Compressor, you agree to the following terms.
-Use of the App
+<h1>Terms and Conditions</h1>
+<p>Last updated: January 2026</p>
 
-Vid Compressor is provided for personal and lawful use only.
-You agree not to misuse the app or attempt to modify, reverse engineer, or distribute it.
+<h2>Acceptance of Terms</h2>
+<p>
+By downloading or using <strong>Your App Name</strong>, you agree to these Terms and Conditions.
+If you do not agree, please do not use the app.
+</p>
 
-Video Content
+<h2>Use of the App</h2>
 
-All videos remain the property of the user
-The app does not claim ownership of any media
-Users are responsible for the content they compress
-App Performance
+<h3>License</h3>
+<p>
+We grant you a limited, non-exclusive, non-transferable license to use the app for personal use.
+</p>
 
-We strive to provide the best compression experience, but:
-Compression results may vary depending on device and video quality
-We do not guarantee specific file size reductions
+<h3>Restrictions</h3>
+<ul>
+    <li>You may not modify or reverse engineer the app</li>
+    <li>You may not use the app for illegal purposes</li>
+</ul>
 
-Ads
+<h2>Content Responsibility</h2>
+<p>
+Users are responsible for any content they process using the app.
+We are not responsible for data loss or misuse.
+</p>
 
-The app may display advertisements to support development.
-Limitation of Liability
-Vid Compressor is provided “as is”.
-We are not responsible for:
-Data loss
-Device issues
-Any indirect damages caused by app usage
-Updates & Changes
-We may update the app or these terms at any time without prior notice.
+<h2>Termination</h2>
+<p>
+We reserve the right to terminate or suspend access to the app without prior notice if you violate these terms.
+</p>
 
-Contact
+<h2>Limitation of Liability</h2>
+<p>
+Your App Name shall not be liable for any direct or indirect damages resulting from the use of the app.
+</p>
 
-For any concerns regarding these terms, contact:
-📧 digitalhelpxyz@gmail.com
+<h2>Changes to Terms</h2>
+<p>
+We may update our Terms and Conditions from time to time.
+Changes will be effective immediately after posting.
+</p>
+
+<h2>Contact Us</h2>
+<p>
+If you have any questions about these Terms, contact us at:
+<br>
+<strong>Email:</strong> your@email.com
+</p>
+
+</body>
+</html>
