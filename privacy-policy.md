@@ -2,70 +2,65 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Privacy Policy for Your App Name. Learn how we collect, use, and protect user data.">
-    <meta name="keywords" content="Privacy Policy, Your App Name, User Data, Security">
-    <meta name="author" content="Your App Name">
+    <meta name="description" content="Privacy Policy for Vid Compressor app. Learn how we collect, use, and protect your data.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Your App Name</title>
 </head>
 <body>
 
-<h1>Privacy Policy</h1>
+<h1>Privacy Policy for Vid Compressor</h1>
+
 <p>Last updated: January 2026</p>
 
-<h2>Introduction</h2>
 <p>
-Welcome to <strong>Your App Name</strong>. Your privacy is important to us.
-This Privacy Policy explains how we collect, use, and safeguard your information.
+Vid Compressor is a free video compression application. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 </p>
 
 <h2>Information We Collect</h2>
 
 <h3>Personal Information</h3>
 <p>
-We do not collect any personally identifiable information such as name, phone number, or address.
+Vid Compressor does <strong>not</strong> collect, store, or share any personally identifiable information.
 </p>
 
-<h3>Non-Personal Information</h3>
+<h3>Media Access</h3>
 <p>
-We may collect non-personal information such as device type, Android version, and app usage statistics to improve app performance.
+The app requires access to videos stored on your device only for the purpose of compressing selected videos.  
+All video processing happens locally on your device.
 </p>
 
-<h2>How We Use Information</h2>
+<h3>Log Data</h3>
+<p>
+In case of an error or crash, the app may collect basic log information (such as device model, Android version) to improve app stability.
+</p>
+
+<h2>How We Use Your Information</h2>
 <ul>
-    <li>To improve app features and user experience</li>
+    <li>To provide video compression features</li>
+    <li>To improve app performance and stability</li>
     <li>To fix bugs and crashes</li>
-    <li>To analyze app performance</li>
 </ul>
 
-<h2>Third-Party Services</h2>
+<h2>Data Sharing</h2>
 <p>
-Our app may use third-party services such as Google AdMob or Firebase Analytics.
-These services may collect information used to identify you.
-</p>
-
-<h2>Data Security</h2>
-<p>
-We value your trust and use commercially acceptable means of protecting your data.
-However, no method of transmission over the internet is 100% secure.
+We do not sell, trade, or share your personal data with any third parties.
 </p>
 
 <h2>Children’s Privacy</h2>
 <p>
-Our app does not knowingly collect any personal information from children under the age of 13.
+Vid Compressor does not knowingly collect any information from children under the age of 13.
 </p>
 
-<h2>Changes to This Policy</h2>
+<h2>Changes to This Privacy Policy</h2>
 <p>
-We may update our Privacy Policy from time to time.
-Any changes will be posted on this page.
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page.
 </p>
 
 <h2>Contact Us</h2>
 <p>
-If you have any questions about this Privacy Policy, contact us at:
-<br>
-<strong>Email:</strong> your@email.com
+If you have any questions about this Privacy Policy, you can contact us at:
+</p>
+<p>
+<strong>Email:</strong> digitalhelpxyz@gmail.com
 </p>
 
 </body>
